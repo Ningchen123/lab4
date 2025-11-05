@@ -13,5 +13,5 @@ Ecommerce Platform - это полнофункциональная систем�
 ### Шаги установки
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/yourusername/ecommerce-platform.git
+git clone (https://github.com/Ningchen123/lab4/edit/main/README.md)
 cd ecommerce-platform
